@@ -1,0 +1,1 @@
+Pokud budete kopírovat podpis do více zaøízení, je tøeba logo nìkam umístit na internet a zmìnit pouze adresu uložení obrázku v html souboru. Pøípadnì Vám ho na internet umístím a podpis nebudet potøeba nikde upravovat.
